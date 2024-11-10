@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CyberShop/static/css/main.9880208d.css",
-    "main.js": "/CyberShop/static/js/main.d1bd35b1.js",
+    "main.css": "/CyberShop/static/css/main.7ffc875e.css",
+    "main.js": "/CyberShop/static/js/main.25f6a6f6.js",
     "static/media/loading.gif": "/CyberShop/static/media/loading.6ed74377d567f46d4b0d.gif",
     "static/media/SF-Pro-Display-Semibold.otf": "/CyberShop/static/media/SF-Pro-Display-Semibold.037dc63930459813f575.otf",
     "static/media/SF-Pro-Display-Medium.otf": "/CyberShop/static/media/SF-Pro-Display-Medium.b85d841dacb040b84951.otf",
@@ -31,11 +31,11 @@
     "static/media/banner_playstation(2).png": "/CyberShop/static/media/banner_playstation(2).89e959acd2217a9045b8.png",
     "static/media/banner_visionpro.png": "/CyberShop/static/media/banner_visionpro.59b4d0f224130c6c896f.png",
     "index.html": "/CyberShop/index.html",
-    "main.9880208d.css.map": "/CyberShop/static/css/main.9880208d.css.map",
-    "main.d1bd35b1.js.map": "/CyberShop/static/js/main.d1bd35b1.js.map"
+    "main.7ffc875e.css.map": "/CyberShop/static/css/main.7ffc875e.css.map",
+    "main.25f6a6f6.js.map": "/CyberShop/static/js/main.25f6a6f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.9880208d.css",
-    "static/js/main.d1bd35b1.js"
+    "static/css/main.7ffc875e.css",
+    "static/js/main.25f6a6f6.js"
   ]
 }
