@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CyberShop/static/css/main.56aa7d58.css",
-    "main.js": "/CyberShop/static/js/main.7ab5c076.js",
+    "main.js": "/CyberShop/static/js/main.c68d8ab4.js",
     "static/media/loading.gif": "/CyberShop/static/media/loading.6ed74377d567f46d4b0d.gif",
     "static/media/SF-Pro-Display-Semibold.otf": "/CyberShop/static/media/SF-Pro-Display-Semibold.037dc63930459813f575.otf",
     "static/media/SF-Pro-Display-Medium.otf": "/CyberShop/static/media/SF-Pro-Display-Medium.b85d841dacb040b84951.otf",
@@ -31,10 +31,10 @@
     "static/media/banner_visionpro.png": "/CyberShop/static/media/banner_visionpro.59b4d0f224130c6c896f.png",
     "index.html": "/CyberShop/index.html",
     "main.56aa7d58.css.map": "/CyberShop/static/css/main.56aa7d58.css.map",
-    "main.7ab5c076.js.map": "/CyberShop/static/js/main.7ab5c076.js.map"
+    "main.c68d8ab4.js.map": "/CyberShop/static/js/main.c68d8ab4.js.map"
   },
   "entrypoints": [
     "static/css/main.56aa7d58.css",
-    "static/js/main.7ab5c076.js"
+    "static/js/main.c68d8ab4.js"
   ]
 }
